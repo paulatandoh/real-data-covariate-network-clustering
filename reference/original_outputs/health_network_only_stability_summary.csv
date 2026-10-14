@@ -1,0 +1,2 @@
+"Dataset","Model","Number_of_starts","Number_of_pairwise_comparisons","Mean_Stability_ARI","SD_Stability_ARI","Minimum_Stability_ARI","Maximum_Stability_ARI"
+"Add Health","Network only",3,3,0.613095063915155,0.0575586254736825,0.54663836138764,0.647114226974947

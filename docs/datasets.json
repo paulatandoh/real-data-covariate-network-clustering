@@ -1,0 +1,74 @@
+{
+  "technology": {
+    "adj": "github_technology_adjacency_N300.csv",
+    "cov": "github_technology_covariate_N300.csv",
+    "column": "ml_target",
+    "N": 300,
+    "E": 1458,
+    "counts": [
+      223,
+      77
+    ],
+    "network": "github_network_only_ERGM_clustering.R",
+    "covariate": "simple_github_realdata_ERGM_clustering.R",
+    "network_seeds": [
+      1001,
+      1002,
+      1003
+    ]
+  },
+  "health": {
+    "adj": "addhealth_adjacency.csv",
+    "cov": "addhealth_covariate.csv",
+    "column": "sex_binary",
+    "N": 247,
+    "E": 999,
+    "counts": [
+      122,
+      125
+    ],
+    "network": "health_network_only_model_v3.R",
+    "covariate": "health_covariate_model_v3.R",
+    "network_seeds": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  "insurance": {
+    "adj": "insurance_adjacency.csv",
+    "cov": "insurance_covariate.csv",
+    "column": "insured",
+    "N": 250,
+    "E": 667,
+    "counts": [
+      136,
+      114
+    ],
+    "network": "insurance_network_only_model_final.R",
+    "covariate": "insurance_covariate_model_final.R",
+    "network_seeds": [
+      2001,
+      2002,
+      2003
+    ]
+  },
+  "technology_750": {
+    "adj": "github_large_balanced_adjacency_N750.csv",
+    "cov": "github_large_balanced_covariate_N750.csv",
+    "column": "ml_target",
+    "N": 750,
+    "E": 15335,
+    "counts": [
+      500,
+      250
+    ],
+    "network": "github_large_balanced_network_only_model_final.R",
+    "covariate": "github_large_balanced_covariate_model_final.R",
+    "network_seeds": [
+      2001,
+      2002,
+      2003
+    ]
+  }
+}

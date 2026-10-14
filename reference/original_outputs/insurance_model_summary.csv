@@ -1,0 +1,2 @@
+"Dataset","N","Edges","K","Beta","VBIC","VICL","Modularity","Runtime_seconds","EM_iterations","NR_iterations","EM_converged","Numerical_failure","Theta_1","Gamma_1","Theta_2","Gamma_2"
+"Insurance Social Network",250,667,2,0.236964582741035,6489.55957204683,6815.4786338142,0.284150653309028,480.273901224136,68,129,TRUE,FALSE,-2.06179500492539,0.505833914284706,-1.89010906880408,0.494166085715294

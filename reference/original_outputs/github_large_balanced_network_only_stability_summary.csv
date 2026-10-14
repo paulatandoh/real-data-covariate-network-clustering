@@ -1,0 +1,2 @@
+"Dataset","Model","Number_of_starts","Number_of_pairwise_comparisons","Mean_Stability_ARI","SD_Stability_ARI","Minimum_Stability_ARI","Maximum_Stability_ARI"
+"Large GitHub Technology Network - Label-Aware N750","Network only",3,3,0.973602259951642,0.0174158315470693,0.960422081943952,0.993346183728666

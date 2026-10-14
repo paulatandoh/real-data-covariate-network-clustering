@@ -1,0 +1,2 @@
+"Dataset","Model","Number_of_starts","Number_of_pairwise_comparisons","Mean_Stability_ARI","SD_Stability_ARI","Minimum_Stability_ARI","Maximum_Stability_ARI"
+"Insurance Social Network","Network only",3,3,0.12038027687471,0.102251040786451,0.0102530006922419,0.212312093960644

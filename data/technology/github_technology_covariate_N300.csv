@@ -1,0 +1,301 @@
+node,original_github_node_id,ml_target,developer_type
+1,11460,0,Web
+2,1789,1,Machine Learning
+3,10402,0,Web
+4,11242,0,Web
+5,11465,0,Web
+6,16321,0,Web
+7,21471,0,Web
+8,22321,1,Machine Learning
+9,29052,0,Web
+10,31577,0,Web
+11,31890,0,Web
+12,33029,0,Web
+13,37340,1,Machine Learning
+14,4397,0,Web
+15,7406,1,Machine Learning
+16,12992,0,Web
+17,13410,1,Machine Learning
+18,18035,1,Machine Learning
+19,19254,0,Web
+20,20189,0,Web
+21,24572,0,Web
+22,24721,0,Web
+23,25477,0,Web
+24,26996,0,Web
+25,30789,0,Web
+26,32564,0,Web
+27,34922,0,Web
+28,35071,0,Web
+29,35725,1,Machine Learning
+30,35821,0,Web
+31,185,0,Web
+32,239,1,Machine Learning
+33,262,1,Machine Learning
+34,282,1,Machine Learning
+35,348,0,Web
+36,573,0,Web
+37,953,1,Machine Learning
+38,1591,0,Web
+39,2078,0,Web
+40,2105,1,Machine Learning
+41,2281,0,Web
+42,2352,0,Web
+43,2424,0,Web
+44,2442,0,Web
+45,3352,0,Web
+46,3601,1,Machine Learning
+47,4136,0,Web
+48,5040,0,Web
+49,5152,0,Web
+50,5694,0,Web
+51,5721,0,Web
+52,6032,0,Web
+53,6528,0,Web
+54,6797,0,Web
+55,7050,0,Web
+56,7292,0,Web
+57,7491,0,Web
+58,7504,0,Web
+59,7513,0,Web
+60,7837,0,Web
+61,8301,0,Web
+62,8836,1,Machine Learning
+63,10001,0,Web
+64,10072,0,Web
+65,10737,0,Web
+66,10840,0,Web
+67,10983,0,Web
+68,11070,0,Web
+69,11271,0,Web
+70,11326,0,Web
+71,11476,1,Machine Learning
+72,11695,0,Web
+73,12380,1,Machine Learning
+74,12844,0,Web
+75,13708,0,Web
+76,13982,0,Web
+77,14018,0,Web
+78,14242,0,Web
+79,14831,0,Web
+80,14864,0,Web
+81,15192,0,Web
+82,15762,0,Web
+83,16012,1,Machine Learning
+84,16087,0,Web
+85,16178,0,Web
+86,16432,0,Web
+87,16726,0,Web
+88,17080,1,Machine Learning
+89,17254,1,Machine Learning
+90,17373,0,Web
+91,17429,0,Web
+92,18710,0,Web
+93,19222,0,Web
+94,19253,0,Web
+95,19358,0,Web
+96,19957,0,Web
+97,20160,1,Machine Learning
+98,20963,0,Web
+99,21376,0,Web
+100,22218,0,Web
+101,22825,0,Web
+102,23281,0,Web
+103,23458,0,Web
+104,23664,0,Web
+105,23879,0,Web
+106,24197,0,Web
+107,24233,0,Web
+108,24351,1,Machine Learning
+109,24705,0,Web
+110,25392,0,Web
+111,25414,0,Web
+112,25509,0,Web
+113,25630,0,Web
+114,25854,1,Machine Learning
+115,25924,0,Web
+116,26201,0,Web
+117,27450,0,Web
+118,27742,1,Machine Learning
+119,27803,0,Web
+120,28512,0,Web
+121,28895,0,Web
+122,28909,1,Machine Learning
+123,29055,0,Web
+124,29815,0,Web
+125,30606,0,Web
+126,31131,1,Machine Learning
+127,31141,0,Web
+128,31149,0,Web
+129,31659,0,Web
+130,31792,0,Web
+131,32239,0,Web
+132,32509,0,Web
+133,32710,0,Web
+134,33138,0,Web
+135,33833,0,Web
+136,33988,0,Web
+137,34149,0,Web
+138,34176,0,Web
+139,34402,0,Web
+140,34646,0,Web
+141,35580,0,Web
+142,35598,0,Web
+143,35773,0,Web
+144,36056,0,Web
+145,36148,0,Web
+146,36529,0,Web
+147,36785,0,Web
+148,36819,0,Web
+149,36875,0,Web
+150,37195,0,Web
+151,37480,0,Web
+152,187,1,Machine Learning
+153,199,1,Machine Learning
+154,521,1,Machine Learning
+155,539,0,Web
+156,751,0,Web
+157,891,1,Machine Learning
+158,1016,0,Web
+159,1032,0,Web
+160,1291,0,Web
+161,1481,1,Machine Learning
+162,1629,0,Web
+163,1792,0,Web
+164,2010,0,Web
+165,2213,0,Web
+166,2333,1,Machine Learning
+167,2400,1,Machine Learning
+168,2683,0,Web
+169,2755,0,Web
+170,2809,0,Web
+171,3108,0,Web
+172,3194,0,Web
+173,3290,1,Machine Learning
+174,3335,0,Web
+175,3517,0,Web
+176,3801,0,Web
+177,4202,1,Machine Learning
+178,4307,1,Machine Learning
+179,4355,0,Web
+180,4357,0,Web
+181,4420,1,Machine Learning
+182,4710,0,Web
+183,5165,1,Machine Learning
+184,5419,0,Web
+185,5513,0,Web
+186,5583,1,Machine Learning
+187,5615,0,Web
+188,5629,0,Web
+189,6518,1,Machine Learning
+190,6599,0,Web
+191,6616,0,Web
+192,6702,1,Machine Learning
+193,6751,0,Web
+194,6793,1,Machine Learning
+195,6829,1,Machine Learning
+196,7065,0,Web
+197,7195,0,Web
+198,7430,0,Web
+199,7572,0,Web
+200,8132,0,Web
+201,8142,1,Machine Learning
+202,8258,1,Machine Learning
+203,8327,0,Web
+204,8757,0,Web
+205,8848,1,Machine Learning
+206,8913,1,Machine Learning
+207,9075,0,Web
+208,9438,0,Web
+209,9607,0,Web
+210,9936,0,Web
+211,9962,1,Machine Learning
+212,10118,1,Machine Learning
+213,10627,0,Web
+214,10733,1,Machine Learning
+215,11876,0,Web
+216,12093,0,Web
+217,12227,1,Machine Learning
+218,12267,0,Web
+219,12336,0,Web
+220,12363,0,Web
+221,12591,0,Web
+222,12623,0,Web
+223,12643,0,Web
+224,13007,0,Web
+225,13204,0,Web
+226,13751,0,Web
+227,13752,0,Web
+228,13773,1,Machine Learning
+229,13934,0,Web
+230,14147,1,Machine Learning
+231,14185,0,Web
+232,14251,0,Web
+233,14399,0,Web
+234,14699,0,Web
+235,14700,0,Web
+236,14879,0,Web
+237,14914,0,Web
+238,15288,0,Web
+239,15500,1,Machine Learning
+240,15525,0,Web
+241,15743,0,Web
+242,15904,0,Web
+243,16390,0,Web
+244,16496,0,Web
+245,16738,0,Web
+246,16844,0,Web
+247,17049,0,Web
+248,17258,1,Machine Learning
+249,17345,1,Machine Learning
+250,17539,0,Web
+251,18007,0,Web
+252,18042,0,Web
+253,18263,0,Web
+254,18331,0,Web
+255,18524,1,Machine Learning
+256,18609,1,Machine Learning
+257,18687,0,Web
+258,18941,1,Machine Learning
+259,19018,1,Machine Learning
+260,19324,0,Web
+261,19776,0,Web
+262,19833,0,Web
+263,19962,0,Web
+264,19981,0,Web
+265,20193,1,Machine Learning
+266,20426,0,Web
+267,20528,1,Machine Learning
+268,20657,1,Machine Learning
+269,20682,1,Machine Learning
+270,20841,0,Web
+271,20861,1,Machine Learning
+272,21033,1,Machine Learning
+273,21047,0,Web
+274,21243,1,Machine Learning
+275,21309,0,Web
+276,21311,1,Machine Learning
+277,21368,1,Machine Learning
+278,21375,0,Web
+279,21409,0,Web
+280,21483,0,Web
+281,21508,0,Web
+282,21576,1,Machine Learning
+283,21770,1,Machine Learning
+284,21797,0,Web
+285,22426,0,Web
+286,22523,1,Machine Learning
+287,22594,0,Web
+288,22717,0,Web
+289,22875,0,Web
+290,23211,1,Machine Learning
+291,23273,0,Web
+292,23371,0,Web
+293,23431,0,Web
+294,23694,0,Web
+295,23817,1,Machine Learning
+296,24155,1,Machine Learning
+297,24179,1,Machine Learning
+298,24205,1,Machine Learning
+299,24207,0,Web
+300,24557,1,Machine Learning

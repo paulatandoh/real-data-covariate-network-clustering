@@ -1,0 +1,2 @@
+"Model","N","Edges","K","VBIC","VICL","Modularity","Runtime_seconds","EM_iterations","NR_iterations","EM_converged","Numerical_failure","Theta_1","Gamma_1","Theta_2","Gamma_2"
+"Network only",300,1458,2,9280.57711828288,9284.59050962028,-0.211724584666971,501.683355331421,56,123,TRUE,FALSE,1.16961922508936,0.043938666707692,-2.26500132084424,0.956061333292308

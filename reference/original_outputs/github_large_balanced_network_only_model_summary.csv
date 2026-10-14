@@ -1,0 +1,2 @@
+"Dataset","Model","N","Edges","K","VBIC","VICL","Modularity","Runtime_seconds","EM_iterations","NR_iterations","EM_converged","Numerical_failure","Theta_1","Gamma_1","Theta_2","Gamma_2"
+"Large GitHub Technology Network - Label-Aware N750","Network only",750,15335,2,109011.596042392,109137.286456571,-0.00945743730737356,2497.35687947273,45,101,TRUE,FALSE,-1.79806701462047,0.82709757706835,-0.43940766331314,0.17290242293165

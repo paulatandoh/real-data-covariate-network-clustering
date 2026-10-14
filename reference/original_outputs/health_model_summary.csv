@@ -1,0 +1,2 @@
+"Dataset","N","Edges","K","Beta","VBIC","VICL","Modularity","Runtime_seconds","EM_iterations","NR_iterations","EM_converged","Numerical_failure","Theta_1","Gamma_1","Theta_2","Gamma_2"
+"Add Health",247,999,2,0.231636535413116,8777.31886143078,9019.16186593403,0.133647160674188,657.18009185791,91,187,TRUE,FALSE,-2.00541035574844,0.5793781242485,-1.4778576671458,0.4206218757515
